@@ -1,0 +1,37 @@
+
+
+
+[
+  {
+    "title": "Assassin's Creed",
+    "description": "Assassin's Creed is een serie computerspellen, aangevuld met tientallen romans, strips en films. Het eerste deel in de serie was Assassin's Creed uit 2007. De spellen zijn voornamelijk ontwikkeld door Ubisoft Montreal en uitgegeven door Ubisoft. De spellen spelen zich af in een fictieve geschiedenis bestaande uit gebeurtenissen uit de echte wereld en volgen de eeuwenoude strijd tussen de sluipmoordenaars, die vechten voor vrede door vrije wil, en de Tempeliers, die vrede verlangen door beheersing. Anno 2020 zijn er meer dan 150 miljoen Assassin's Creed-spellen verkocht.",
+    "img": "https://mbo-sd.nl/img/p03/gaming/assassinscreed.jpg",
+    "firstGame": "13 november 2007",
+    "playerCount": 120000000,
+    "genre": ["Action-adventure"],
+    "genres": ["Action-adventure"],
+    "sales": 200000000
+  },
+  {
+    "title": "Far Cry",
+    "description": "Far Cry is een serie computerspellen van Ubisoft. Het eerste spel, Far Cry, werd ontwikkeld door Crytek waarna alle vervolgen ontwikkeld zijn door Ubisoft Montreal. Anno 2017 zijn er 38 miljoen Far Cry-spellen verkocht. De serie schietspellen verscheen voor het eerst in 2004 voor Windows. De individuele spellen in de serie delen geen gemeenschappelijke verhaallijn, maar hebben wel als hoofdthema een wildernisomgeving, waarin gevochten moet worden tegen een of meerdere leiders die de regio bezetten. Ook moet de speler zien te overleven tegen wilde dieren die op de open vlaktes rondlopen.",
+    "img": "https://mbo-sd.nl/img/p03/gaming/farcry.jpg",
+    "firstGame": "26 maart 2004",
+    "playerCount": 145000,
+    "genre": ["First-person shooter"],
+    "genres": ["First-person shooter"],
+    "sales": 35500000
+  },
+  {
+    "title": "Rainbow Six Siege",
+    "description": "Tom Clancy's Rainbow Six: Siege is een first-person shooter ontwikkeld door Ubisoft Montreal. Het spel werd uitgegeven door Ubisoft op 1 december 2015 voor PlayStation 4, Playstation 5, Windows en Xbox One. Tom Clancy's Rainbow 6: Patriots was initieel in ontwikkeling voor de PlayStation 3 en Xbox 360. Nadat de opvolgers van beide consoles waren aangekondigd, besloten de ontwikkelaars dat de idee\u00ebn voor het spel beter geschikt waren voor de nieuwe consoles en om alle ontwikkeling voor Patriots te stoppen en vanaf nul te beginnen aan Rainbow Six: Siege. Het spel heeft begin januari 2019 12 seizoenen en 44 operators. Iedere operator heeft zijn eigen specialiteit. Elk seizoen komt er 1 operator bij: meestal zijn dit een aanvaller of een verdediger.",
+    "img": "https://mbo-sd.nl/img/p03/gaming/rainbowsixsiege.jpg",
+    "firstGame": "1 december 2015",
+    "playerCount": 66780,
+    "genre": ["First-person shooter"],
+    "genres": ["First-person shooter"],
+    "sales": 10000000
+
+    
+  }
+]

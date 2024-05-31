@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Progressieve rock",
+        "description": "Progressieve rock (Engels: progressive rock, afgekort prog of prog-rock; ook wel symfonische rock genoemd) is een vorm van rockgeori\u00ebnteerde muziek die opkwam in de late jaren zestig en haar hoogtepunt bereikte in de jaren zeventig en tachtig. Progressieve rock kent in vergelijking met andere populaire muziek complexere composities en langere nummers. De muziek wordt gekenmerkt door lang uitgesponnen nummers vol tempo- en themawisselingen.",
+        "year": "1965",
+        "countryOfOrigin": "Verenigd Koninkrijk en Verenigde Staten",
+        "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8f\/DarkSideOfTheMoon1973.jpg",
+        "artists": [
+            "Emerson, Lake & Palmer",
+            "The Who",
+            "Pink Floyd"
+        ]
+    },
+    {
+        "title": "Country rock",
+        "description": "Countryrock is een fusie van countrymuziek met rock- en popmuziekelementen. Deze stijl combineert traditionele countrygeluiden met de energie en instrumentatie van rock en pop, resulterend in een genre dat een breed publiek aanspreekt met zijn unieke mix van stijlen en klanken.",
+        "year": "1968",
+        "countryOfOrigin": "Verenigde Staten",
+        "imageUrl": "https://images.radiobob.de/files/2021-12/eagles_bandfoto.jpg?h=&rect=215%2C0%2C2670%2C2003&w=800",
+        "artists": [
+            "Eagles",
+            "Creedence Clearwater Revival",
+            "The Doobie Brothers"
+        ]
+    },
+    {
+        "title": "Glam rock",
+        "description": "Glamrock of glitterrock, onderdeel van de popmuziek, is een muziekstijl die populair was in de jaren 70. Na de idealistische jaren 60 begonnen (vooral Britse) popgroepen steeds extravagantere optredens te verzorgen waarbij de aankleding van de bandleden net zo belangrijk werd als de muziek die ze brachten.",
+        "year": "1970",
+        "countryOfOrigin": "Verenigd Koninkrijk",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg",
+        "artists": [
+            "Queen",
+            "Elton John",
+            "David Bowie"
+        ]
+    }
+]

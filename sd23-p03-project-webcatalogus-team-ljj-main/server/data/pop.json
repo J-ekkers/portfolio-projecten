@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Dancepop",
+        "description": "Dancepop is een genre binnen de popmuziek dat dance-invloeden omarmt. Het combineert de ritmes van dancemuziek met de structuur en aanstekelijke melodieën van pop. Ontstaan in de late jaren zeventig na de post-disco periode, heeft het genre een blijvende invloed gehad op de muziekscene en blijft het populair bij een breed publiek.",
+        "year": "1979",
+        "countryOfOrigin": "Verenigde Staten en Verenigd Koninkrijk",
+        "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b1\/Madonna_Rebel_Heart_Tour_2015_-_Stockholm_%2823051472299%29_%28cropped%29.jpg\/800px-Madonna_Rebel_Heart_Tour_2015_-_Stockholm_%2823051472299%29_%28cropped%29.jpg",
+        "artists": [
+            "Madonna",
+            "Michael Jackson",
+            "Vengaboys"
+        ]
+    },
+    {
+        "title": "Europop",
+        "description": "Europop is een vorm van popmuziek die in het algemeen wordt gemaakt voor de Europese markt of door Europese artiesten. Kenmerkend is dat deze muziek grensoverschrijdend is binnen Europa, terwijl de populariteit in de VS meestal achterblijft of niet aanwezig is.",
+        "year": "1965",
+        "countryOfOrigin": "Europa",
+        "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c8\/Boney_M_1981.jpg",
+        "artists": [
+            "Abba",
+            "Boney M",
+            "Spice Girls"
+        ]
+    },
+    {
+        "title": "Countrypop",
+        "description": "Countrypop is ontstaan uit de vermenging van countrymuziek met popmuziek, vooral toen de Nashville-sound een breder publiek begon aan te spreken. Deze fusie combineert de traditionele klanken van country met de commerciële aantrekkingskracht van pop, wat resulteert in een genre dat zowel country- als popliefhebbers aanspreekt.",
+        "year": "1990",
+        "countryOfOrigin": "Verenigde Staten",
+        "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5d\/ShaniaTwain3.jpg",
+        "artists": [
+            "Taylor Swift",
+            "Shania Twain",
+            "George Strait"
+        ]
+    }
+]

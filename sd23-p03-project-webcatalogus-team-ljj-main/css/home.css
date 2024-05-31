@@ -1,0 +1,125 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  display: grid;
+  grid-gap: 0px;
+  grid-template-columns: repeat(6, 1fr);
+  height: 400px;
+  grid-template-areas:
+    "hd hd hd hd hd hd"
+    "na na na na na na"
+    "ma ma ma ma ma ma"
+    "ma ma ma ma ma ma"
+    "ma ma ma ma ma ma";
+}
+
+
+
+header {
+  grid-area: hd;
+}
+
+main {
+  grid-area: ma;
+}
+
+.games {
+  grid-area: ga;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.films {
+  grid-area: fi;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.ontbijt {
+  grid-area: on;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+nav {
+  grid-area: na;
+}
+
+
+header {
+  margin: 0 auto;
+  background-color: rgb(20, 52, 71);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid black 3px;
+  width: 100%;
+}
+
+.subjectlogo {
+  height: 300px;
+  width: 300px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.games {
+  border: solid black 1px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.films {
+  border: solid black 1px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.ontbijt {
+  border: solid black 1px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 250px;
+  margin-top: 150px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.subjecttext {
+  border-top: solid black 1px;
+  font-size: larger;
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  height: 150px;
+}
+
+footer {
+  background-color: rgb(20, 52, 71);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}

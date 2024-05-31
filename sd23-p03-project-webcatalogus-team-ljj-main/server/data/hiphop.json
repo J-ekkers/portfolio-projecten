@@ -1,0 +1,38 @@
+[
+    {
+        "title": "East Coast hip hop",
+        "description": "Eastcoasthiphop is een subgenre van hiphop, ontstaan in de jaren zeventig in New York aan de oostkust van de Verenigde Staten. Het kenmerkt zich door zijn unieke geluid en invloed op de bredere hiphopcultuur. Met zijn roots in steden als New York City en Philadelphia, heeft Eastcoasthiphop een belangrijke rol gespeeld bij het vormgeven van de hiphopscene en het definiëren van zijn karakteristieke stijl.",
+        "year": "1970",
+        "countryOfOrigin": "Verenigde Staten",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/De_La_Soul_by_foto_di_matti.jpg",
+        "artists": [
+            "De La Soul",
+            "A Tribe Called Quest",
+            "EPMD"
+        ]
+    },
+    {
+        "title": "Alternatieve hiphop",
+        "description": "Alternatieve hiphop is een subgenre van de hiphop waarmee een vari\u00ebteit aan hiphop en rap genres bedoeld wordt. Deze groepen zijn niet conform aan het traditionele stereotype van de hiphop en rap zoals gangsta, bass en hardcore rap.",
+        "year": "1985",
+        "countryOfOrigin": "Verenigde Staten",
+        "imageUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/de\/Beastie-boys.jpg\/1920px-Beastie-boys.jpg",
+        "artists": [
+            "Beastie Boys",
+            "Bloodhound Gang",
+            "Cypress Hill"
+        ]
+    },
+    {
+        "title": "Hardcore rap",
+        "description": "Hardcore rap is een stroming binnen de hiphop die zich kenmerkt door harde, compromisloze teksten en zware beats. Door het compromisloze karakter en het vaak grove taalgebruik wordt hardcore rap, zeker in de dagprogrammering, meestal geweerd door de grotere, commerci\u00eble radiostations en televisiezenders.",
+        "year": "1980",
+        "countryOfOrigin": "Verenigde Staten",
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/ice_t_photo_by_steve_jennings_wireimage_getty_96335910.jpg?resize=1200:*",
+        "artists": [
+            "Run-DMC",
+            "Schoolly D",
+            "Ice-T"
+        ]
+    }
+]

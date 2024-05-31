@@ -1,0 +1,29 @@
+[
+  {
+    "title": "GTA",
+    "description": "Grand Theft Auto (kortweg GTA) is een serie van computerspellen. De spellen zijn een samensmelting van een computerspel en de popcultuur. De serie is gecre\u00eberd door DMA Design, dat na GTA III Rockstar North werd, en wordt gepubliceerd door Rockstar Games. Het eerste spel is hoogstwaarschijnlijk gebaseerd op de gelijknamige film van Ron Howard. GTA III vertoont weer veel overeenkomsten met de films Goodfellas en The Godfather. Bij GTA: Vice City waren er duidelijk invloeden van Scarface en Miami Vice zichtbaar en van GTA: San Andreas komt de inspiratie van Boyz n the Hood en Menace II Society.",
+    "img": "https://mbo-sd.nl/img/p03/gaming/gta.jpg",
+    "firstGame": "28 november 1997",
+    "playerCount": 157454,
+    "genres": ["Action-adventure", "Open wereldspel"],
+    "sales": 385000000
+  },
+  {
+    "title": "Red Dead Redemption",
+    "description": "Red Dead Redemption is een videospel, ontwikkeld door Rockstar San Diego en uitgegeven door Rockstar Games op 21 mei 2010. Het is de opvolger van Red Dead Revolver, dat in 2004 uitkwam. Het spel heeft in 2010 de GameSpot's Game of the Year-prijs gewonnen. Red Dead Redemption zou oorspronkelijk op 29 april 2010 in de winkels liggen. De ontwikkelaar liet in maart echter weten een paar weken langer aan het spel te willen werken om er zeker van te zijn dat de game van de 'hoogste kwaliteit' zou zijn. Hierop werd bekendgemaakt dat het spel pas zou worden uitgebracht op 18 mei in de VS en op 21 mei in Europa. De game was aangekondigd als geschikt voor spelers van 16 jaar en ouder maar werd uitgebracht voor spelers van 17 jaar en ouder (18 in Europa). ",
+    "img": "https://mbo-sd.nl/img/p03/gaming/reddeadredemption.jpg",
+    "firstGame": "21 mei 2010",
+    "playerCount": 42608,
+    "genres": ["Action-adventure"],
+    "sales": 23000000
+  },
+  {
+    "title": "Max Payne",
+    "description": "Max Payne omvat een drietal third person shooter computerspellen die draaien om de titulaire hoofdpersoon. De eerste twee delen zijn gemaakt door Remedy Entertainment, het derde deel door Rockstar Games. De games staan bekend om het gebruik van bullettime en neo noirsfeer. Het eerste spel in de serie kwam uit in 2001 voor Windows, en in 2002 voor de Xbox, PlayStation 2 en voor de Apple Macintosh. Max Payne gaat op jacht naar de daders van zijn vermoorde vrouw en kind.",
+    "img": "https://mbo-sd.nl/img/p03/gaming/maxpayne.jpg",
+    "firstGame": "23 juli 2001",
+    "playerCount": 177,
+    "genres": ["Third person shooter"],
+    "sales": 7500000
+  }
+]

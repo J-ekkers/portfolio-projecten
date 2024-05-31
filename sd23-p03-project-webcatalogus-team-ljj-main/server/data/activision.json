@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Call of Duty",
+    "description": "Call of Duty (CoD) is een serie van computerspellen ontwikkeld door Infinity Ward, Treyarch en Sledgehammer Games. Na het succes van het eerste spel, volgden er nog meerdere spellen. Qua gameplay lijkt de Call of Duty-serie op de Medal of Honor-serie, maar in tegenstelling tot Medal of Honor speelt de speler als soldaat van verschillende landen, zoals de Verenigde Staten, het Verenigd Koninkrijk en de Sovjet-Unie. Call of Duty 4: Modern Warfare was het eerste spel in de serie dat niet meer tijdens de Tweede Wereldoorlog afspeelt, maar in het heden. Call of Duty: Modern Warfare 2 (2022) was het laatste spel dat is gepubliceerd.",
+    "img": "https://mbo-sd.nl/img/p03/gaming/callofduty.jpg",
+    "firstGame": "29 oktober 2003",
+    "playerCount": 250000000,
+    "genres": ["First-person shooter", "Third-person shooter"],
+    "sales": 400000000
+  },
+  {
+    "title": "Hearthstone",
+    "description": "Hearthstone: Heroes of Warcraft is een digitaal verzamelkaartspel gebaseerd op de World of Warcraft TCG-set van de Warcraft Universe. Het werd aangekondigd op 22 maart 2013 tijdens PAX East 2013 door Rob Pardo. De spelers kunnen kiezen tussen 10 verschillende Warcraft-helden, een eigen kaartendeck verzamelen, en deze gebruiken om hun tegenstander te verslaan door middel van speciale wapens en krachten. Elke held heeft kaarten die niet verkrijgbaar zijn voor andere helden, hierdoor heeft elke held zijn eigen speelstijl. De b\u00e8tatest begon in de Verenigde Staten op 16 augustus 2013 en op 4 september 2013 konden ook de Europeanen het spel testen. Het spel werd uitgebracht op 11 maart 2014 voor Windows en macOS. Sinds 2 april 2014 is het spel beschikbaar voor iPad.",
+    "img": "https://mbo-sd.nl/img/p03/gaming/hearthstone.jpg",
+    "firstGame": "11 maart 2014",
+    "playerCount": 260000,
+    "genres": ["Digitaal verzamelkaartspel"],
+    "sales": 90000000
+  },
+  {
+    "title": "Overwatch",
+    "description": "Overwatch was een multiplayer first-person shooter ontwikkeld en uitgegeven door Blizzard Entertainment. Het spel kwam op 24 mei 2016 uit voor PlayStation 4, Windows en Xbox One, en op 15 oktober 2019 voor de Nintendo Switch. Op 27 oktober 2015 ging de gesloten b\u00e8ta van start in Noord-Amerika en Europa. Overwatch is de vierde game ontworpen door Blizzard, en is ontworpen na de annulering van het spel Titan. Een deel van het team dat Titan had ontworpen kwam met het concept van Overwatch; een aantal van de elementen uit Overwatch komen ook overeen met die van het geannuleerde spel. Het spel werd op 7 november 2014 tijdens BlizzCon onthuld. Begin mei vond een open b\u00e8ta plaats waar 9,7 miljoen mensen aan deelnamen. Met de komst van het vervolg Overwatch 2 in oktober 2022 werden de servers van Overwatch gesloten waardoor het spel niet meer speelbaar werd.",
+    "img": "https://mbo-sd.nl/img/p03/gaming/overwatch.jpg",
+    "firstGame": "24 mei 2016",
+    "playerCount": 100000000,
+    "genres": ["First-person shooter"],
+    "sales": 60000000
+  }
+]
