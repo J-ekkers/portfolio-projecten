@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+hr {
+    width: 120px;
+    border: 3px solid rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.h2x3 {
+    height: 250px;
+}
+
+.team {
+    width: 250px;
+}
+
+.testimonial{
+    height: 100px;
+    border-radius: 100px;
+}
