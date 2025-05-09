@@ -1,0 +1,11 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello Master!{% endblock %}
+
+{% block body %}
+    <div class="container-fluid col-3">
+        <h1>Add new Category</h1>
+        <a href="{{ path('master-home') }}" class="btn btn-primary">Go Back</a>
+        {{ form(form) }}
+    </div>
+{% endblock %}

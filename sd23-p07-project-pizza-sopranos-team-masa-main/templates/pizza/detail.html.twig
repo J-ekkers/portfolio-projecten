@@ -1,0 +1,23 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello pizzaController!{% endblock %}
+
+{% block body %}
+    <div class="container-md bg-white">
+        <div class="container-sm py-2 d-flex justify-content-center align-items-center flex-row flex-wrap">
+
+            <div class="card me-1" style="width: 19rem">
+                <img src="{{ asset(pizza.img) }}"  alt="" class="img-fluid object-fit-contain rounded-top">
+                <div class="card-body">
+                    <h5 class="card-title">{{ pizza.name }}</h5>
+                    <p class="card-text">{{ pizza.description }}</p>
+                </div>
+                <div class="card-body d-flex flex-row justify-content-between flex-wrap">
+                    <p class="m-0 py-1 px-3 bg-black fw-bold text-danger rounded mt-1">€{{ pizza.price|number_format(2, ',', '.') }}</p>
+                    <a href="{{ path('app-order', {'id':pizza.id}) }}" class="card-link text-decoration-none bg-danger rounded text-center text-black py-1 fw-bold px-3 mt-1">Bestellen <i class="bi bi-caret-right-fill"></i></a>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+{% endblock %}

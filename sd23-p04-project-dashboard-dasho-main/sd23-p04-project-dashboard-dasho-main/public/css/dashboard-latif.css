@@ -1,0 +1,36 @@
+.header {
+    background-color: rgba(33, 95, 154, 100);
+  }
+  
+  .navbar {
+    background-color: rgba(33, 95, 154, 100);
+    padding: 0px;
+    font-size: 25px;
+  }
+  
+  .nav-link {
+    background: -webkit-linear-gradient(#83cbeb, #d9f2d0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .dropdown-item {
+    background: -webkit-linear-gradient(#83cbeb, #d9f2d0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .dropdown-menu {
+    background-color: rgba(33, 95, 154, 100);
+  }
+  
+  .end {
+    display: flex;
+    justify-content: end;
+  }
+  
+  .ProfilePicture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

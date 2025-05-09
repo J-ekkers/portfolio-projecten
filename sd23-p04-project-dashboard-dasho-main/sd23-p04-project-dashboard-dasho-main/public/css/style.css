@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.header{
+    background-color: rgba(33, 95, 154, 100);
+}
+
+.navbar{
+    background-color: rgba(33, 95, 154, 100);
+    padding: 0px;
+    font-size: 25px;
+    
+}
+
+.end{
+display: flex;
+justify-content: end;
+}
+
+.ProfilePicture{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login{
+    display: flex;
+    justify-content: center;
+}
+
+.login-button{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.form{
+    background-color: rgba(33, 95, 154, 100);
+    border-radius: 20px;
+}
+
+.login-header{
+    display: flex;
+    justify-content: center;
+    color: rgba(131, 203, 235, 100);
+    font-size: 35px;
+}
+
+.btn-primary{
+    border: solid 2px white;
+    font-size: 20px;
+}
+
+.form-control{
+    background-color: rgba(131, 203, 235, 100);
+    border: solid 2px white;
+}
+
+.mb-3{
+    padding: 5px;
+}
+
+.form-label{
+    color: rgba(131, 203, 235, 100);
+    font-size: 25px;
+}
+
+.ruimte{
+    height: 200px;
+}
+
+.nav-link{
+    background: -webkit-linear-gradient(#83CBEB, #D9F2D0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.dropdown-item{
+    background: -webkit-linear-gradient(#83CBEB, #D9F2D0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

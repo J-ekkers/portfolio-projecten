@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    background-color: rgba(33, 95, 154, 100);
+}
+
+.navbar {
+    background-color: rgba(33, 95, 154, 100);
+    padding: 0px;
+    font-size: 25px;
+
+}
+
+.end {
+    display: flex;
+    justify-content: end;
+}
+
+.ProfilePicture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.chatbot {
+    width: 90%;
+    min-width: 300px;
+    max-width: 590px;
+    background-color:rgba(33, 95, 154, 100);
+}
+
+
+.nav-link{
+    background: -webkit-linear-gradient(#83CBEB, #D9F2D0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+ 
+.dropdown-item{
+    background: -webkit-linear-gradient(#83CBEB, #D9F2D0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+ 
+.dropdown-menu{
+background-color: rgba(33, 95, 154, 100);
+}
+
+.message{
+    border-radius: 15px;
+    border-top-left-radius: 0px;
+}
+
+.message-back{
+    border-radius: 15px;
+    border-top-right-radius: 0px;
+}
+
+.bi-person-circle{
+    margin-bottom: 35px;
+}

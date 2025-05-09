@@ -1,0 +1,23 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello pizzaController!{% endblock %}
+
+{% block body %}
+    <div class="container-lg bg-white border">
+        <div class="row">
+            {% for pizza in pizzas %}
+                <div class="col-4 mt-5 mb-3 d-flex justify-content-center">
+                    <a class="text-decoration-none btn" href="{{ path('pizza-detail', {'id':pizza.id}) }}">
+                        <div class="card shadow-lg" style="width: 19rem;">
+                            <h4 class="d-flex justify-content-center">{{ pizza.name }}</h4>
+                            <img src="{{ asset(pizza.img) }}" class=" img-fluid" alt="...">
+                            <div class="card-body">
+                                <p class="card-text d-flex justify-content-center fs-5"> {{ pizza.description }} </p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+{% endblock %}

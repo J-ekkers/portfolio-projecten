@@ -1,0 +1,21 @@
+<nav class="navbar navbar-expand-lg bg-black">
+    <div class="col-sm-1"></div>
+    <div class="container-fluid bg py-1 rounded">
+        <a class="navbar-brand d-flex justify-content-center col-lg-11 col-md-8 col-sm-10" href="{{ path('category') }}"><span class="fw-bold fs-3 text-danger bg-black ps-2 rounded-start border border-2 border-end-0">Pizza</span><span class="fs-3 fw-bold bg-danger pe-2 rounded-end border border-start-0 border-2">Hub</span></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-menu-up fs-4"></i>
+        </button>
+        <div class="collapse navbar-collapse col-lg-1 col-md-3 col-sm-2" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+                <li class="nav-item dropdown-center">
+                    <a class="nav-link dropdown-toggle fw-bold bg-secondary rounded m-0" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <i class="bi bi-gear-fill"></i> Options
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-dark">
+                        <li><a class="dropdown-item" href="{{ path('master-home') }}">Login(CRUD)</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>

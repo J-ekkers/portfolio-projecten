@@ -1,0 +1,26 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello HomeController!{% endblock %}
+
+{% block body %}
+<div class="container-sm px-0">
+    <div class="container-fluid ps-5">
+        <a class="text-decoration-none text-white btn btn-success fw-bold text-start mt-2 ms-3" href="{{ path('pizza-app') }}">Zie alle Pizzas</a>
+    </div>
+    <div class="container-fluid row">
+    {% for category in categories %}
+        <div class="col-4 mt-5 mb-3 d-flex justify-content-center">
+            <a class="text-decoration-none  btn" href="{{ path('pizza', {'id': category.id}) }}">
+        <div class="card shadow-lg " style="width: 19rem;">
+            <h4 class="d-flex justify-content-center">{{ category.name }}</h4>
+            <img src="{{ asset(category.img) }}" class=" img-fluid" alt="...">
+            <div class="card-body">
+                <p class="card-text d-flex justify-content-center fs-4"> {{ category.description}} </p>
+            </div>
+        </div>
+            </a>
+        </div>
+    {% endfor %}
+</div>
+    </div>
+{% endblock %}
